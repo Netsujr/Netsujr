@@ -1,4 +1,4 @@
-Renato Delboni | Full-Stack Developer | Front-End Designer 
+Renato Delboni | Front-End Developer | Software Engineer 
 ----
 <div align="center">
   <a href="https://github.com/Netsujr">
