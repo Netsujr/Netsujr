@@ -23,7 +23,7 @@ Renato Delboni | Front-End Developer | Software Engineer
   ![Snake animation](https://github.com/caiosantosss/caiosantosss/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-  <h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/delbonirenato" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/delbonirenato" height="30" width="40" /></a>
 </p>
