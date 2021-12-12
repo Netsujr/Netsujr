@@ -1,5 +1,6 @@
 Renato Delboni | Front-End Developer | Software Engineer 
 ----
+
 <div align="center">
   <a href="https://github.com/Netsujr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=netsujr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,3 +22,8 @@ Renato Delboni | Front-End Developer | Software Engineer
   
   ![Snake animation](https://github.com/caiosantosss/caiosantosss/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/www.linkedin.com/in/delbonirenato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/delbonirenato" height="30" width="40" /></a>
+</p>
