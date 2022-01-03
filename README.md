@@ -16,9 +16,6 @@ Renato Delboni | Front-End Developer | www.renatodelboni.me
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  
-  ![Snake animation](https://github.com/caiosantosss/caiosantosss/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
