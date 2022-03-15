@@ -17,7 +17,7 @@ Renato Delboni | Front-End Developer | www.renatodelboni.me
   <img alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Netsujr&theme=dark" alt="Netsujr" /></p>
+  <p><img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Netsujr&theme=dark" alt="Netsujr" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
