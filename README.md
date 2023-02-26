@@ -1,4 +1,4 @@
-Renato Delboni | Front-End Developer | www.renatodelboni.me
+Renato Delboni | Front-End Developer | renatodelboni.netlify.app
 ----
 
 <div align="center">
@@ -13,8 +13,12 @@ Renato Delboni | Front-End Developer | www.renatodelboni.me
   <img alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
   <img alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"/>
   <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img alt="Vue" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> 
+  <img alt="Vuetify" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg"/> 
+  <img alt="TypeScript" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> 
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="NodeJs" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> 
   <img alt="Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
 
 <h3 align="center">Connect with me:</h3>
