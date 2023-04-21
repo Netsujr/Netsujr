@@ -20,6 +20,7 @@ Renato Delboni | Front-End Developer | https://renatodelboni.netlify.app
   <img alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="NodeJs" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> 
   <img alt="Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+  <img alt="AWS" height="30" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050"/> 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
